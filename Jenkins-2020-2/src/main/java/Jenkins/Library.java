@@ -5,6 +5,6 @@ package Jenkins;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
